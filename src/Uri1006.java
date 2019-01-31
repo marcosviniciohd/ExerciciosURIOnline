@@ -11,7 +11,7 @@ public class Uri1006 {
        double b = Double.parseDouble(leia.nextLine());
        double c = Double.parseDouble(leia.nextLine());
 
-       double media = ( ( a * 2 ) + ( b * 3 ) + (c * 5 )) / 3;
+       double media = ( ( a * 2 ) + ( b * 3 ) + (c * 5 )) / 10;
 
         System.out.printf("MEDIA = %.1f\n", media);
 
